@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dmcclccam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danilocastro.adv.br
+  * I am dmcclccam (https://keybase.io/dmcclccam) on keybase.
+  * I have a public key ASDFXQleCxHtLCxi63pehlpYqqmG-WVBnROroX0gFm9E_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015e19b62e876bfb26060af8c23d219a5df33ca3ae755c5bb23a403f4280a0ffef0a",
+      "host": "keybase.io",
+      "kid": "0120c55d095e0b11ed2c2c62eb7a5e865a58aaa986f965419d13aba17d20166f44fd0a",
+      "uid": "3fecec9abece6caa014ecd4284b28819",
+      "username": "dmcclccam"
+    },
+    "merkle_root": {
+      "ctime": 1547679731,
+      "hash": "32b6f58cfc94eb39a2157f439c55747d8274dd503240f8401323beb4b5cb3cddbbdf9370c3e5ecc1ca00495aef49dd4517c853d9889baaeae57d50e5601e5bf9",
+      "hash_meta": "48cc2fe189564ba8f6cf4abf9dbbacb7f47c1cffb3ac56836c486136c4c774ed",
+      "seqno": 4438816
+    },
+    "service": {
+      "entropy": "LzX8BJxVnQRi8kQJNIFJ8BQ0",
+      "hostname": "danilocastro.adv.br",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1547679744,
+  "expire_in": 504576000,
+  "prev": "490fd12e7d5447adb341ea1af7af4b62af67ab0707519fa08e231e0717591792",
+  "seqno": 93,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxV0JXgsR7SwsYut6XoZaWKqphvllQZ0Tq6F9IBZvRP0Kp3BheWxvYWTESpcCXcQgSQ/RLn1UR62zQeoa969LYq9nqwcHUZ+gjiMeBxdZF5LEIK+AkFt4yrv73h41230jScAx+diiqq3ZXrtEeWQhTpTFAgHCo3NpZ8RA196Uxq3w2YqcNaN1eH83Rdzt+RgA1mGkQ1y6yQWlRy5EE2rGIXqQ+ybgD2viy+x4On8MzACU50SvBZO0+vZ3BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM22SS/FqhngfC04tYNRYluWMPpqmfDQk0fNY9DBy3H5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dmcclccam
+
+==================================================================
